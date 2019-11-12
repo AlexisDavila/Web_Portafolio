@@ -21,4 +21,10 @@ header{
 /* selector de id  */
 /* #portafolio */
 
+body{
+   font-family: 'Source Sans Pro';    
+}
 
+h1{
+   font-family: 'Hjalla One', Times, serif;
+}
