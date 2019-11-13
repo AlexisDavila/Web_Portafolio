@@ -27,7 +27,8 @@ header{
 /* celeste = #026fff */
 
 body{
-   font-family: 'Source Sans Pro';    
+   font-family: 'Source Sans Pro';
+   margin: 0px;
 }
 
 h1,
@@ -66,6 +67,10 @@ strong {
    background-color: #1b2127;
 }
 
+.portfolio {
+   background-color: #f2f2f2;
+}
+
 .project {
    /* border-top: tamaño tipo estilo(color); */
    /* border-top: 10px solid red;
@@ -79,7 +84,10 @@ strong {
    border: 1px solid gray;
    border-radius: 10px;
    /* border-top-left-radius: 50px; */
+   margin: 10px;
    margin-bottom: 15px;
+   padding: 20px;
+   background: white;
 }
 
 .project-details{
