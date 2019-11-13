@@ -64,6 +64,21 @@ strong {
    background-color: #1b2127;
 }
 
+.project {
+   /* border-top: tamaño tipo estilo(color); */
+   /* border-top: 10px solid red;
+   border-right: 10px solid green;
+   border-bottom: 10px solid pink;
+   border-left: 10px solid yellow; */
+   /* color: blue; */
+   /* border-color: red;
+   border-width: 15px;
+   border-style: solid; */
+   border: 1px solid gray;
+   border-radius: 10px;
+   border-top-left-radius: 50px;
+}
+
 .project-details{
    width: 500px;
 }
